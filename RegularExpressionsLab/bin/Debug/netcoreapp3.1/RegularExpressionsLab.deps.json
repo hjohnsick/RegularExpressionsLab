@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RegularExpressionsLab/1.0.0": {
+        "runtime": {
+          "RegularExpressionsLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegularExpressionsLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
